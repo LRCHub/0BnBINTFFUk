@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "タナゴコロ",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2026-02-18T06:37:00.555725Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タナゴコロ",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_タナゴコロ_Kis-My-Ft2.txt"
+    }
+  ]
+}
